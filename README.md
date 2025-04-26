@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Sarun Kumar
+# 👋 Hello there, I'm Tarun Kumar
 
 Welcome to my GitHub! 🚀
 
